@@ -17,7 +17,7 @@ keywords:
   - poverty
   - frequent
 description: The recent case of a Department for Work and Pensions (DWP) employee sacked for taking time off for illness illustrates a truth that the government does not acknowledge. Modern employment practices often appear to be incompatible with its aim of getting sick and disabled people off disability benefits and into work.
-datePublished: '2016-01-29T21:36:57.656Z'
+datePublished: '2016-01-29T21:36:57.689Z'
 dateModified: '2016-01-29T21:36:54.977Z'
 author: []
 related: []
