@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.ekklesia.co.uk/node/22504'
 title: Creating a future beyond the Work Capability Assessment (WCA) (now with easy read version)
-datePublished: '2016-01-29T21:30:47.196Z'
-dateModified: '2016-01-29T19:54:59.748Z'
+datePublished: '2016-01-29T21:40:25.502Z'
+dateModified: '2016-01-29T21:38:51.008Z'
 sourcePath: _posts/2016-01-29-creating-a-future-beyond-the-work-capability-assessment-wca.md
 published: true
 inFeed: true
