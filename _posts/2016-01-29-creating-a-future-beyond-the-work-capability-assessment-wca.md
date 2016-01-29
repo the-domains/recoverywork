@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.ekklesia.co.uk'
-  name: Ekklesia
-  favicon: 'http://www.ekklesia.co.uk/favicon.ico'
-  domain: www.ekklesia.co.uk
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.ekklesia.co.uk/node/22504'
+inLanguage: en
+starred: false
 keywords:
   - ekklesia
   - wca
@@ -18,17 +17,20 @@ keywords:
   - people
   - files
 description: 'Following consultation with disability organisations, Ekklesia is conducting a survey of people with mental or physical health conditions in order to design a replacement for Employment and Support Allowance (ESA) and the Work Capability Assessment (WCA). We consider the WCA to be too flawed and broken to be satisfactorily fixed.'
-inLanguage: en
+datePublished: '2016-01-29T22:05:46.018Z'
+dateModified: '2016-01-29T22:05:40.640Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.ekklesia.co.uk/node/22504'
 title: Creating a future beyond the Work Capability Assessment (WCA) (now with easy read version)
-datePublished: '2016-01-29T21:40:25.502Z'
-dateModified: '2016-01-29T21:38:51.008Z'
 sourcePath: _posts/2016-01-29-creating-a-future-beyond-the-work-capability-assessment-wca.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Ekklesia
+  domain: www.ekklesia.co.uk
+  url: 'http://www.ekklesia.co.uk'
+  favicon: 'http://www.ekklesia.co.uk/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
