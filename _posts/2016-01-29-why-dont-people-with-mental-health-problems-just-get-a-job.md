@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://purplepersuasion.wordpress.com/2015/12/09/why-dont-people-with-mental-health-problems-just-get-a-job/'
 title: "Why don't people with mental health problems just get a job?"
-datePublished: '2016-01-29T21:30:47.182Z'
-dateModified: '2016-01-29T19:53:09.652Z'
+datePublished: '2016-01-29T22:15:24.645Z'
+dateModified: '2016-01-29T21:39:24.820Z'
 sourcePath: _posts/2016-01-29-why-dont-people-with-mental-health-problems-just-get-a-job.md
 published: true
 inFeed: true
