@@ -17,7 +17,7 @@ keywords:
   - people
   - files
 description: 'Following consultation with disability organisations, Ekklesia is conducting a survey of people with mental or physical health conditions in order to design a replacement for Employment and Support Allowance (ESA) and the Work Capability Assessment (WCA). We consider the WCA to be too flawed and broken to be satisfactorily fixed.'
-datePublished: '2016-01-30T15:10:03.191Z'
+datePublished: '2016-01-30T15:10:03.194Z'
 dateModified: '2016-01-30T15:09:53.029Z'
 author: []
 related: []
