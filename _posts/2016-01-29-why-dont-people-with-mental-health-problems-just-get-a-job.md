@@ -17,8 +17,8 @@ keywords:
   - employment
   - people
 description: 'Last week I went to the House of Lords, something I found quite intimidating. Thankfully I was supported by a member of Rethink campaigns team in giving oral evidence to a Parliamentary Review. Chaired by Lord Low of Dalston, the Review was set up to assess the likely impact of a proposed benefit cut.'
-datePublished: '2016-01-31T09:06:36.559Z'
-dateModified: '2016-01-31T09:06:34.674Z'
+datePublished: '2016-01-31T09:10:51.308Z'
+dateModified: '2016-01-31T09:10:49.386Z'
 author:
   - name: purplepersuasion
     url: 'https://purplepersuasion.wordpress.com/author/purplepersuasion/'
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>"Why don't people with mental health problems just get a job?"</h1><p>Charlotte Walker (@BipolarBlogger) Last week I went to the House of Lords, something I found quite intimidating. Thankfully I was supported by a member of Rethink campaigns team in giving oral evidence to a Parliamentary Review. Chaired by Lord Low of Dalston, the Review was set up to assess the likely impact of a proposed benefit cut.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92ee78c6829cc9c183fc284886c28fa056a0bc3f.png" /></article>
+<article style=""><h1>"Why don't people with mental health problems just get a job?"</h1><p>Charlotte Walker (@BipolarBlogger) Last week I went to the House of Lords, something I found quite intimidating. Thankfully I was supported by a member of Rethink campaigns team in giving oral evidence to a Parliamentary Review. Chaired by Lord Low of Dalston, the Review was set up to assess the likely impact of a proposed benefit cut.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5f07e17b73fed6e54861a0e9f63ccce0138e66c.png" /></article>
