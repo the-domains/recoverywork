@@ -17,8 +17,8 @@ keywords:
   - poverty
   - frequent
 description: "Bernadette Meaden of Ekklesia debunks the absurdity of the government's implications that people receiving ESA (only an additional £30 a week) have no incentive to find work."
-datePublished: '2016-01-31T08:49:17.354Z'
-dateModified: '2016-01-31T08:49:14.782Z'
+datePublished: '2016-01-31T12:53:43.697Z'
+dateModified: '2016-01-31T12:49:06.417Z'
 author: []
 related: []
 app_links: []
