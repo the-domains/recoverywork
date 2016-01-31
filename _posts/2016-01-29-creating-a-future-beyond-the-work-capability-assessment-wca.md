@@ -17,8 +17,8 @@ keywords:
   - people
   - files
 description: 'Following consultation with disability organisations, Ekklesia is conducting a survey of people with mental or physical health conditions in order to design a replacement for Employment and Support Allowance (ESA) and the Work Capability Assessment (WCA). We consider the WCA to be too flawed and broken to be satisfactorily fixed.'
-datePublished: '2016-01-30T15:10:03.194Z'
-dateModified: '2016-01-30T15:09:53.029Z'
+datePublished: '2016-01-31T08:38:15.171Z'
+dateModified: '2016-01-31T08:38:05.533Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>"Creating a future beyond the Work Capability Assessment."</h1><p>Ekklesia is a Christian political think-tank committed to social justice. While I am mostly wary of religious organisations, Ekklesia's commitment to abolishing the Work Capability Assessment (WCA) is fascinating. The WCA is designed for individuals who are out of work due to disability and/or ill-health, to determine whether they are too ill to work. The WCA comprises a twenty page questionnaire that asks extremely intrusive questions about one's health and ability, such as: 'Can you chew and swallow food and drink without help or being prompted by another person?' In addition to this lengthy questionnaire, most people are also required to attend a medical assessment. These are heavy demands to place upon individuals that are unwell, so in my opinion any attempts to change the current system are welcome. Unfortunately, Ekklesia's method of data collection involves a fifteen page questionnaire, however as it is purely voluntary and does not involve the same strict time constraints as the WCA, it is more forgivable.</p></article>
+<article style=""><h1>"Creating a future beyond the Work Capability Assessment."</h1><p>Ekklesia is a Christian political think-tank committed to social justice. While I am mostly wary of religious organisations, Ekklesia's commitment to abolishing the Work Capability Assessment (WCA) is fascinating. The WCA is designed for individuals who are out of work due to disability and/or ill-health, to determine whether they are too ill to work. The WCA comprises a twenty page questionnaire that asks extremely intrusive questions about one's health and ability, such as: 'Can you chew and swallow food and drink without help or being prompted by another person?' In addition to this lengthy questionnaire, most people are also required to attend a medical assessment. These are heavy demands to place upon individuals that are unwell, so in my opinion any attempts to change the current system are welcome. Unfortunately, Ekklesia's method of data collection involves a fifteen page questionnaire, however as it is purely voluntary and does not involve the same strict time constraints as the WCA, it is perhaps more forgivable. It will be interesting to examine their results in due course.</p></article>
