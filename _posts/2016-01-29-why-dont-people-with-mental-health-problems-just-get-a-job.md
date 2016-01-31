@@ -17,7 +17,7 @@ keywords:
   - employment
   - people
 description: 'Last week I went to the House of Lords, something I found quite intimidating. Thankfully I was supported by a member of Rethink campaigns team in giving oral evidence to a Parliamentary Review. Chaired by Lord Low of Dalston, the Review was set up to assess the likely impact of a proposed benefit cut.'
-datePublished: '2016-01-31T09:06:36.459Z'
+datePublished: '2016-01-31T09:06:36.559Z'
 dateModified: '2016-01-31T09:06:34.674Z'
 author:
   - name: purplepersuasion
