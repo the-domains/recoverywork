@@ -17,15 +17,15 @@ keywords:
   - employment
   - people
 description: 'Last week I went to the House of Lords, something I found quite intimidating. Thankfully I was supported by a member of Rethink campaigns team in giving oral evidence to a Parliamentary Review. Chaired by Lord Low of Dalston, the Review was set up to assess the likely impact of a proposed benefit cut.'
-datePublished: '2016-01-31T12:47:55.884Z'
-dateModified: '2016-01-31T12:47:36.892Z'
+datePublished: '2016-01-31T12:54:31.504Z'
+dateModified: '2016-01-31T12:53:08.073Z'
 author:
   - name: purplepersuasion
     url: 'https://purplepersuasion.wordpress.com/author/purplepersuasion/'
     avatar: {}
 related: []
 app_links: []
-title: "Why don't people with mental health problems just get a job?"
+title: "\"Why don't people with mental health problems just get a job?\""
 sourcePath: _posts/2016-01-29-why-dont-people-with-mental-health-problems-just-get-a-job.md
 published: true
 authors: []
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-"Why don't people with mental health problems just get a job?"
+Charlotte Walker (@Bipolar Blogger).
